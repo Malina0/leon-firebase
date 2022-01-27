@@ -3,6 +3,7 @@ package com.playsport.matchtv.ui.categories.products.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import com.playsport.matchtv.databinding.ItemProductBinding
 
 class ProductsAdapter (

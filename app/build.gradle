@@ -10,17 +10,18 @@ buildscript {
 apply plugin: 'com.android.application'
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 apply plugin: 'kotlin-android'
+apply plugin: 'com.google.gms.google-services'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 32
     buildToolsVersion "30.0.3"
     buildFeatures {
         viewBinding = true
     }
     defaultConfig {
-        applicationId "com.app.carbohydratesgide"
+        applicationId "com.playsport.matchtv"
         minSdkVersion 23
-        targetSdkVersion 31
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 

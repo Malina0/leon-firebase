@@ -2,6 +2,7 @@ package com.playsport.matchtv.utils
 
 import android.content.Context
 import com.appsflyer.AppsFlyerLib
+import com.google.firebase.FirebaseApp
 import com.onesignal.OneSignal
 import com.playsport.matchtv.utils.Id.FLYER
 import com.playsport.matchtv.utils.Id.SIGNAL_ID

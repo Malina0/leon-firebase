@@ -5,6 +5,7 @@ import android.content.SharedPreferences
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
+import androidx.core.content.edit
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.playsport.matchtv.R
 import com.playsport.matchtv.databinding.FragmentWaterBinding
