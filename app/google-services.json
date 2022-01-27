@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565436222804",
+    "project_id": "playmatchs",
+    "storage_bucket": "playmatchs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565436222804:android:bad0399becb6580be68cc1",
+        "android_client_info": {
+          "package_name": "com.playsport.matchtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565436222804-bd9ppar06moe0sc25hfehqttq0nctc09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZ_mbc8y-u8MuslUq4TRPkSk4dwbDz2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565436222804-bd9ppar06moe0sc25hfehqttq0nctc09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
